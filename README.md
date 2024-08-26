@@ -73,7 +73,6 @@ Selecciona a que artistas conoces:<br></h></p></font>
 <input type="checkbox">Diego Velázquez<br>
 <input type="checkbox">Claude Monet<br>
 
-   
 <br>
 
     <script type="text/javascript">
